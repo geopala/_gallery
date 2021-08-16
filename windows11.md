@@ -7,7 +7,9 @@ caption: 'Τα Windows 11 είναι μια επικείμενη μεγάλη έ
 license_url: 'https://www.microsoft.com/el-gr/windows/windows-11'
 license_text: Microsoft
 categories:
-  - Εργαλεία
+  - Desktop
+  - GUI
+  - Αρχέτυπα
 tags:
   - Windows
   - Microsoft
